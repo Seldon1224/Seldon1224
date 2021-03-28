@@ -3,6 +3,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seldon1224)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seldon1224&layout=compact" />
 <!--
 **Seldon1224/Seldon1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
